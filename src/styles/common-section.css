@@ -1,5 +1,5 @@
 .common__section {
-  background: linear-gradient(rgb(0, 13, 107, 0.6), rgb(0, 13, 107, 0.6)),
+  background: linear-gradient(rgba(0, 82, 107, 0.5), rgba(0, 82, 107, 0.5)),
     url("../Things/photos/drive.jpg");
   background-position: center;
   background-size: cover;

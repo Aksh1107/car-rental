@@ -14,13 +14,18 @@ const navLinks = [
     display: "About",
   },
   {
+    path: "/cars",
+    display: "Car",
+  },
+  {
     path: "/blog",
     display: "Blog",
   },
   {
-    path: "/cars",
-    display: "Car",
+    path: "/driver",
+    display: "Join with us",
   },
+
   {
     path: "/contact",
     display: "Contact",

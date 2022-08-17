@@ -9,6 +9,7 @@ import CarDetails from "../pages/CarDetails";
 import Blog from "../pages/Blog";
 import Error from "../pages/Error";
 import BlogDetails from "../pages/BlogDetails";
+import Driver from "../pages/Driver";
 
 export const Routers = () => {
   return (
@@ -20,6 +21,8 @@ export const Routers = () => {
       <Route path="/cars" element={<Car />} />
       <Route path="/cars/:slug" element={<CarDetails />} />
       <Route path="/blog" element={<Blog />} />
+      <Route path="/driver" element={<Driver />} />
+
       <Route path="/blog/:slug" element={<BlogDetails />} />
       <Route path="*" element={<Error />} />
     </Routes>
