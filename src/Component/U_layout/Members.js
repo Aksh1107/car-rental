@@ -2,13 +2,14 @@ import React from "react";
 import "../../styles/our-member.css";
 import { Col } from "reactstrap";
 import { Link } from "react-router-dom";
-import ava01 from "../../Things/photos/ava-1.jpg";
-import ava02 from "../../Things/photos/ava-2.jpg";
-import ava03 from "../../Things/photos/ava-3.jpg";
+import ava01 from "../../Things/photos/sachin.jpg";
+import ava02 from "../../Things/photos/dipika.jpg";
+import ava03 from "../../Things/photos/virat.jpg";
+import ava04 from "../../Things/photos/elon.jpg";
 
 const OUR__MEMBERS = [
   {
-    name: "Jhon Doe",
+    name: "Sachin Tendulkar",
     experience: "5 years of experience",
     fbUrl: "#",
     instUrl: "#",
@@ -18,7 +19,7 @@ const OUR__MEMBERS = [
   },
 
   {
-    name: "David Lisa",
+    name: "Deepika Padukone",
     experience: "5 years of experience",
     fbUrl: "#",
     instUrl: "#",
@@ -28,7 +29,7 @@ const OUR__MEMBERS = [
   },
 
   {
-    name: "Hilton King",
+    name: "Virat Kohli",
     experience: "5 years of experience",
     fbUrl: "#",
     instUrl: "#",
@@ -38,13 +39,13 @@ const OUR__MEMBERS = [
   },
 
   {
-    name: "Jhon Doe",
+    name: "Elon Mask",
     experience: "5 years of experience",
     fbUrl: "#",
     instUrl: "#",
     twitUrl: "#",
     linkedinUrl: "#",
-    imgUrl: ava01,
+    imgUrl: ava04,
   },
 ];
 

@@ -1,12 +1,12 @@
 // import all images from assets/images directory
-import img01 from "../photos/nissan-offer.png";
-import img02 from "../photos/offer-toyota.png";
+import img01 from "../photos/tesla.png";
+import img02 from "../photos/lamborgini.png";
 import img03 from "../photos/bmw-offer.png";
-import img04 from "../photos/nissan-offer.png";
-import img05 from "../photos/offer-toyota.png";
+import img04 from "../photos/audi_a8.png";
+import img05 from "../photos/ferrari_camry.png";
 import img06 from "../photos/mercedes-offer.png";
-import img07 from "../photos/offer-toyota.png";
-import img08 from "../photos/mercedes-offer.png";
+import img07 from "../photos/audi_fiesta.png";
+import img08 from "../photos/rolls_royce.png";
 
 const carRecord = [
   {

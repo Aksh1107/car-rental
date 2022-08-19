@@ -6,7 +6,7 @@ import blogData from "../Things/record/blogRecord";
 import Helmet from "../Component/Helmet/Helmet";
 import { Link } from "react-router-dom";
 
-import commentImg from "../Things/photos/ava-1.jpg";
+import commentImg from "../Things/photos/sachin.jpg";
 
 import "../styles/blog-details.css";
 
