@@ -92,7 +92,8 @@
   color: rgba(191, 18, 154, 0.808);
 }
 
-.header__location-content h6 {
+.header__location-content h6,
+h5 {
   font-weight: 600;
   color: rgba(191, 18, 154, 0.808);
 }
