@@ -16,7 +16,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #000d6b;
+  color: #000000;
   font-weight: 600;
   margin-bottom: 0;
 }
@@ -46,7 +46,7 @@ ul {
 }
 
 .section__title {
-  color: #000d6b;
+  color: #6b0047;
   font-weight: 600;
   font-size: 2rem;
 }

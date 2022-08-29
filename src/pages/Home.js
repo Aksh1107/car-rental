@@ -10,7 +10,7 @@ import carRecord from "../Things/record/carRecord";
 import CarItem from "../Component/U_layout/CarItem";
 import BecomeDriver from "../Component/U_layout/BecomeDriver";
 import Test from "../Component/U_layout/Test";
-import BlogList from "../Component/U_layout/BlogList";
+// import BlogList from "../Component/U_layout/BlogList";
 
 const Home = () => {
   return (
@@ -68,18 +68,6 @@ const Home = () => {
               <h2 className="section__title">Test</h2>
             </Col>
             <Test></Test>
-          </Row>
-        </Container>
-      </section>
-      <hr />
-      <section>
-        <Container>
-          <Row>
-            <Col lg="12" className="mb-5 text-center">
-              <h6 className="section__subtitle">Explore Our Blogs</h6>
-              <h2 className="section__title">Latest Blogs</h2>
-            </Col>
-            <BlogList />
           </Row>
         </Container>
       </section>
