@@ -100,7 +100,9 @@ const Header = () => {
                 </span>
                 <div className="header__location-content">
                   <h4>Service Time</h4>
-                  <h5>24 X 7</h5>
+                  <h5 style={{ fontFamily: "initial", fontStyle: "bolder" }}>
+                    24 X 7
+                  </h5>
                 </div>
               </div>
             </Col>

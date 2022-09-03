@@ -22,7 +22,7 @@ const carRecord = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      "which has become the best car in its class in every category. Combining safety, performance, and efficiency, Model S has reset the world’s expectations for the car of the 21st century with the longest range of any electric vehicle, over-the-air software updates that make it better over time, and a record 0-60 mph acceleration time of 2.28 seconds as measured by Motor Trend.",
   },
 
   {
@@ -54,7 +54,7 @@ const carRecord = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      "The BMW X3 M includes advanced standard safety features like Frontal Collision Warning, Active Blind Spot Detection, Lane Departure Warning, and Speed Limit Info.",
   },
 
   {
@@ -86,7 +86,7 @@ const carRecord = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      " Ferrari has traded the naturally breathing V-8 for one that is aided by a turbocharger. The change comes for two reasons: it produces less carbon dioxide, and it allows for even more power out of the V-8 without having to make it physically bigger.",
   },
 
   {
@@ -102,7 +102,7 @@ const carRecord = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      " At Mercedes-Benz of Cary Purchasing a new vehicle is a big decision. One that should not be taken lightly. Many factors go into choosing the right vehicle. What may be important to you may not be so important to someone else. And that is ok. Mercedes-Benz, the first car company in the world, offers a wide variety of vehicles with a wide variety of features.",
   },
 
   {
@@ -118,7 +118,7 @@ const carRecord = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      "Reliability: Audi is a reliable brand with a great track record. \n Handling: Audi offers premiere handling thanks to its Q4 All-Wheel Drive system and turbo charged engines. \n Technology: Audi's have an award winning MMI system that takes technology integration to the next level.",
   },
 
   {
@@ -134,7 +134,7 @@ const carRecord = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      "When it comes to legendary cars, some say none are more special than the Rolls-Royce. These vehicle gems are popular among the Hollywood elite and collectors. The notable style, incredible quality, and famed hood ornament make the Rolls-Royce recognizable to almost anyone",
   },
 ];
 
