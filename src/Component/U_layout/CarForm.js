@@ -25,9 +25,16 @@ const CarForm = () => {
         </FormGroup>
         <FormGroup className="select__group">
           <select>
-            <option defaultValue>type of car</option>
+            <option defaultValue>AC / Non-AC</option>
             <option value="ac">AC Car</option>
             <option value="non-ac">Non AC Car</option>
+          </select>
+        </FormGroup>
+        <FormGroup className="select__group">
+          <select>
+            <option defaultValue>type of car</option>
+            <option value="ac">Premium</option>
+            <option value="non-ac">Non-Premium</option>
           </select>
         </FormGroup>
         <FormGroup className="form__group">

@@ -18,7 +18,7 @@ const HeroSlider = () => {
       <div className="slider__item slider__item-01 mt0">
         <Container>
           <div className="slider__content">
-            <h5 className="text-light mb-3">For Rent ₹1000 Per Day</h5>
+            <h5 className="text-light mb-3">For Rent ₹2000 Per Day</h5>
             <h1 className="text-light mb-4">
               Reserve Now and Get 50% off on your First reservation
             </h1>
@@ -48,7 +48,7 @@ const HeroSlider = () => {
       <div className="slider__item slider__item-03 mt0">
         <Container>
           <div className="slider__content">
-            <h5 className="text-light mb-3">For Rent ₹1000 Per Day</h5>
+            <h5 className="text-light mb-3">For Rent ₹2000 Per Day</h5>
             <h1 className="text-light mb-4">
               Reserve Now and Get 50% off on your First reservation
             </h1>
